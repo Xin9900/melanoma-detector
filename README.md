@@ -1,22 +1,17 @@
+# 🧪 Melanoma Detector (Demo)
 
-# 黑色素瘤检测器 (Melanoma Detector)
+This is a lightweight Streamlit demo that simulates melanoma classification from skin lesion images.
 
-这是一个使用 Streamlit 构建的简单黑色素瘤图像分类演示程序（原型阶段）。
+## 💡 Features
+- Upload a skin lesion image (JPG/PNG)
+- Simulated prediction result: **Benign** or **Malignant**
 
-## 🧪 功能
-- 上传皮肤病变图像
-- 模拟预测结果（Benign / Malignant）
+## 🚧 Note
+This app currently uses **mock results** for demonstration purposes. A real model will be integrated in future versions.
 
-## 🛠️ 后续计划
-- 加入真实训练模型（如 MobileNet）
-- 支持后端服务（Flask / FastAPI）
-- 用户登录与历史记录追踪
+## 🚀 Run Locally
 
-## 🚀 运行方式
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-```
 
----
-作者：Sherry Tian
