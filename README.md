@@ -15,11 +15,11 @@ It is part of my personal exploration into **AI-assisted diagnostics for early s
 
 ## 🛠️ How to Run Locally
 
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-
+```
 ---
 
 ## ⚠️ Note
@@ -47,6 +47,8 @@ Based on this, I plan to further explore:
 
 - Drug response prediction using multi-omics data  
 - Variant effect modeling for rare genetic diseases
+
+
 
 ---
 
