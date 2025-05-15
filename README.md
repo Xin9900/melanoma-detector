@@ -16,9 +16,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ---
-🔭 **Future Work**
-- Integrate a trained CNN model (ResNet34) using ISIC 2018 dataset.
-- Add GradCAM heatmap visualization for interpretability.
-- Potentially combine patient metadata for multi-modal prediction.
-- Inspired by this prototype, I am planning to work on drug response prediction or variant effect modeling in my next project.
-
