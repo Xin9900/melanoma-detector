@@ -1,7 +1,10 @@
 # 🧪 Melanoma Detector (Demo)
 
+[🌐 Live Demo on Streamlit](https://melanoma-detector-spaynmnfmdfvzk5uqygwbi.streamlit.app)
+
 This is a lightweight Streamlit web demo that simulates melanoma classification from skin lesion images.  
 It is part of my personal exploration into **AI-assisted diagnostics for early skin cancer detection**.
+
 
 ---
 
