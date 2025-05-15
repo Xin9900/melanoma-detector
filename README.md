@@ -53,8 +53,6 @@ Based on this, I plan to further explore:
 ---
 
 ## 🖼️ Demo Preview
-
-![demo](demo.png)
 <img width="798" alt="demo1" src="https://github.com/user-attachments/assets/62350a6b-8a2d-4c4e-bafe-8f0525bb32b3" />
 <img width="822" alt="demo2" src="https://github.com/user-attachments/assets/797af06c-c419-4c7f-a641-cbbc79471bfc" />
 
