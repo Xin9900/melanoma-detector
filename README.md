@@ -19,33 +19,51 @@ It is part of my personal exploration into **AI-assisted diagnostics for early s
 pip install -r requirements.txt
 streamlit run app.py
 
-⚠️ Note
-This prototype currently uses mock results for demonstration purposes.
+
+---
+
+## ⚠️ Note
+
+This prototype currently uses **mock results** for demonstration purposes.  
 A trained deep learning model will be integrated in future versions (ResNet34 on ISIC2018).
 
-🔭 Future Plans
-Integrate a real CNN model trained on ISIC 2018 dataset
+---
 
-Add Grad-CAM heatmap for interpretability
+## 🔭 Future Plans
 
-Explore multi-modal integration (image + metadata)
+- Integrate a real CNN model trained on ISIC 2018 dataset  
+- Add Grad-CAM heatmap for interpretability  
+- Explore multi-modal integration (image + metadata)  
+- Build lightweight web-based health tools for underserved communities
 
-Build lightweight web-based health tools for underserved communities
+---
 
-💡 Motivation
-This project was inspired by my interest in AI for accessible healthcare.
+## 💡 Motivation
+
+This project was inspired by my interest in **AI for accessible healthcare**.  
 It represents my early effort to prototype intelligent tools that lower the barrier to early screening.
+
 Based on this, I plan to further explore:
 
-Drug response prediction using multi-omics data
+- Drug response prediction using multi-omics data  
+- Variant effect modeling for rare genetic diseases
 
-Variant effect modeling for rare genetic diseases
+---
 
-📎 Demo Preview
-<img width="777" alt="截屏2025-05-15 下午10 09 00" src="https://github.com/user-attachments/assets/adc5a691-5aff-4fe0-848b-f668e4f4c1a3" />
-<img width="836" alt="截屏2025-05-15 下午10 09 17" src="https://github.com/user-attachments/assets/67393e1a-e95b-453b-aea2-01bbe90f98f6" />
+## 🖼️ Demo Preview
+
+![demo](demo.png)
+<img width="798" alt="demo1" src="https://github.com/user-attachments/assets/62350a6b-8a2d-4c4e-bafe-8f0525bb32b3" />
+<img width="822" alt="demo2" src="https://github.com/user-attachments/assets/797af06c-c419-4c7f-a641-cbbc79471bfc" />
 
 
+*↑ This is a mock preview. A trained model version is in development.*
 
-👩🏻‍💻 Author
-Xinyue(Sherry) Tian · MSc Bioinformatics @ University of Melbourne
+---
+
+## 👩🏻‍💻 Author
+
+**Xinyue(Sherry) Tian**  
+MSc Bioinformatics student @ University of Melbourne  
+🔗 [LinkedIn]([https://www.linkedin.com/in/你的链接](https://www.linkedin.com/in/xinyue-tian-825a65295/))  
+✉️ xttian1@student.unimelb.edu.au
