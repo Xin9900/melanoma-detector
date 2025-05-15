@@ -65,5 +65,5 @@ Based on this, I plan to further explore:
 
 **Xinyue(Sherry) Tian**  
 MSc Bioinformatics student @ University of Melbourne  
-🔗 [LinkedIn]([https://www.linkedin.com/in/你的链接](https://www.linkedin.com/in/xinyue-tian-825a65295/))  
+🔗 [LinkedIn]([(https://www.linkedin.com/in/xinyue-tian-825a65295/)])  
 ✉️ xttian1@student.unimelb.edu.au
